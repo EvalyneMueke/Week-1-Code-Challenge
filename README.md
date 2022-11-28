@@ -1,7 +1,10 @@
 # Week 1 Code Challenge
-
-## Question 1  Student Grade Generator 
-### Answer in Index.js
+  ### dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+## Description
+### Question 1  Student Grade Generator 
+#### Answer in Index.js
 Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 
 A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
@@ -26,3 +29,24 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
  "Evalyne Mueke",
  ### license:
    "ISC",
+
+
+  "name": "challenges",
+  
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvalyneMueke/Week-1-Code-Challenge.git"
+  },
+  "author": "Evalyne Mueke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvalyneMueke/Week-1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/EvalyneMueke/Week-1-Code-Challenge#readme"
+}
