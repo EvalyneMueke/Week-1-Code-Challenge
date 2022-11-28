@@ -22,5 +22,7 @@ https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
-### Author 
-Evalyne Mueke
+ ### author: 
+ "Evalyne Mueke",
+ ### license:
+   "ISC",
